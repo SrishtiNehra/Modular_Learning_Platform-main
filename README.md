@@ -122,7 +122,7 @@ root/
 ## 🧑‍💻 Author
 
 **Umesh Rao**  
-GitHub: [@umeshyadav7988](https://github.com/umeshyadav7988)
+GitHub: [@umeshyadav7988](https://github.com/SrishtiNehra)
 
 ---
 
