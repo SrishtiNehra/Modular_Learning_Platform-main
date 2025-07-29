@@ -121,8 +121,8 @@ root/
 
 ## 🧑‍💻 Author
 
-**Umesh Rao**  
-GitHub: [@umeshyadav7988](https://github.com/SrishtiNehra)
+**Srishti Nehra**  
+GitHub: [@SrishtiNehra](https://github.com/SrishtiNehra)
 
 ---
 
